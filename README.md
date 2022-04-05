@@ -1,2 +1,2 @@
 # small-world
-Strengthening a small world network against destructive attacks
+Strengthening a small world network against destructive attacks using MATLAB
